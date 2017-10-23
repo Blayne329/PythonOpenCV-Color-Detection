@@ -15,7 +15,6 @@ while True:
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     frame = cv2.rectangle(frame,(500,400), (100,100), (0,0,0), 2)
 
-# np.uint8 means that it will have the data type of an 8 bit integer
 
 #Primary colors
     # range of blue done
