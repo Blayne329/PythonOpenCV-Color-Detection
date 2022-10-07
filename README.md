@@ -1,4 +1,4 @@
-# Colorblind-Assistant
+# Python OpenCV Color Detection
 Description: Can detect and name colors. It has the ability to detect all the primary colors and some secondary colors. Use the 'b' key to close
 
 Software requirements:
